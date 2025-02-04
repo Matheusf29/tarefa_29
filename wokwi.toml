@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build\proj29.uf2'
+elf = 'build\proj29.elf'
